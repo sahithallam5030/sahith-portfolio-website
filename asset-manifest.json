@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sahith-portfolio-website/static/css/main.cada3e8a.css",
+    "main.js": "/sahith-portfolio-website/static/js/main.0dc504a9.js",
+    "static/js/787.1ed0c42c.chunk.js": "/sahith-portfolio-website/static/js/787.1ed0c42c.chunk.js",
+    "static/media/programming.svg": "/sahith-portfolio-website/static/media/programming.e7fd0478451b8d72ff9b93b1ea475b66.svg",
+    "index.html": "/sahith-portfolio-website/index.html",
+    "main.cada3e8a.css.map": "/sahith-portfolio-website/static/css/main.cada3e8a.css.map",
+    "main.0dc504a9.js.map": "/sahith-portfolio-website/static/js/main.0dc504a9.js.map",
+    "787.1ed0c42c.chunk.js.map": "/sahith-portfolio-website/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cada3e8a.css",
+    "static/js/main.0dc504a9.js"
+  ]
+}
