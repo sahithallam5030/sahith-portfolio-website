@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sahith-portfolio/static/css/main.d2339a7a.css",
-    "main.js": "/sahith-portfolio/static/js/main.dcf3b05d.js",
-    "static/js/787.1ed0c42c.chunk.js": "/sahith-portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/programming.svg": "/sahith-portfolio/static/media/programming.e7fd0478451b8d72ff9b93b1ea475b66.svg",
-    "index.html": "/sahith-portfolio/index.html",
-    "main.d2339a7a.css.map": "/sahith-portfolio/static/css/main.d2339a7a.css.map",
-    "main.dcf3b05d.js.map": "/sahith-portfolio/static/js/main.dcf3b05d.js.map",
-    "787.1ed0c42c.chunk.js.map": "/sahith-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/sahith-portfolio-website/static/css/main.d2339a7a.css",
+    "main.js": "/sahith-portfolio-website/static/js/main.352b26ab.js",
+    "static/js/787.1ed0c42c.chunk.js": "/sahith-portfolio-website/static/js/787.1ed0c42c.chunk.js",
+    "static/media/programming.svg": "/sahith-portfolio-website/static/media/programming.e7fd0478451b8d72ff9b93b1ea475b66.svg",
+    "index.html": "/sahith-portfolio-website/index.html",
+    "main.d2339a7a.css.map": "/sahith-portfolio-website/static/css/main.d2339a7a.css.map",
+    "main.352b26ab.js.map": "/sahith-portfolio-website/static/js/main.352b26ab.js.map",
+    "787.1ed0c42c.chunk.js.map": "/sahith-portfolio-website/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2339a7a.css",
-    "static/js/main.dcf3b05d.js"
+    "static/js/main.352b26ab.js"
   ]
 }
