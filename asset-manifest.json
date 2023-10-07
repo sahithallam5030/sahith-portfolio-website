@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/sahith-portfolio-website/static/css/main.d2339a7a.css",
-    "main.js": "/sahith-portfolio-website/static/js/main.193624e6.js",
+    "main.js": "/sahith-portfolio-website/static/js/main.188cf326.js",
     "static/js/787.1ed0c42c.chunk.js": "/sahith-portfolio-website/static/js/787.1ed0c42c.chunk.js",
     "static/media/programming.svg": "/sahith-portfolio-website/static/media/programming.e7fd0478451b8d72ff9b93b1ea475b66.svg",
     "index.html": "/sahith-portfolio-website/index.html",
     "main.d2339a7a.css.map": "/sahith-portfolio-website/static/css/main.d2339a7a.css.map",
-    "main.193624e6.js.map": "/sahith-portfolio-website/static/js/main.193624e6.js.map",
+    "main.188cf326.js.map": "/sahith-portfolio-website/static/js/main.188cf326.js.map",
     "787.1ed0c42c.chunk.js.map": "/sahith-portfolio-website/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2339a7a.css",
-    "static/js/main.193624e6.js"
+    "static/js/main.188cf326.js"
   ]
 }
